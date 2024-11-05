@@ -1,0 +1,3 @@
+[workspace]
+members = ["example", "node", "receiver", "sender"]
+resolver = "2"
